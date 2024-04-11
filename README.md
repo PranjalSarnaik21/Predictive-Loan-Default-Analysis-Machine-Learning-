@@ -21,7 +21,7 @@ This project aims to predict loan default using machine learning techniques. It 
 ## Usage
 1. Clone the repository.
 2. Install the required libraries mentioned in `requirements.txt`.
-3. Install Jupyter Notebook using the following command:pip install notebook
+3. Install Jupyter Notebook using the following command: pip install notebook
 4. Run the `loan_default_prediction.ipynb` notebook to execute the project.
 
 
